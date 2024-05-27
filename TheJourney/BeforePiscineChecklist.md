@@ -34,4 +34,4 @@ I'll compile my own study guide, packed with valuable resources and helpful tips
 
 ## Conclusion 🎯
 
-With a clear plan in place and a renewed determination, I'm ready to tackle the Piscine head-on. This time, armed with experience and a thirst for knowledge, I'm not confident I'll make it through, but I will sincerely give my all.
+With a clear plan in place and a renewed determination, I'm ready to tackle the Piscine head-on. This time, armed with experience and a thirst for knowledge, I'm not confident I'll make it through, but I will sincerely give it my all.
