@@ -13,6 +13,7 @@ Before I jump into the Piscine, there are a few things I need to get in order:
 ### 1. Accommodation and Transportation 🏠🚌
 
 Living 7 hours away from the Piscine location, I need to ensure everything is sorted out:
+
 - **Accommodation:** Confirm where I'll be staying during the Piscine. Whether it's a hotel, hostel, or Airbnb, I need to book it in advance.
 - **Transportation:** Plan my journey to the Piscine City. Calculate the cost of bus tickets or any other transportation expenses.
 - **Public Transport:** Research the availability and cost of public transportation from my accommodation to the Piscine location.
@@ -21,6 +22,7 @@ Living 7 hours away from the Piscine location, I need to ensure everything is so
 ### 2. Brushing Up on C Concepts 🖥️
 
 I need to revisit the basics of C programming. These resources will be my go-to guides:
+
 - [42 Ch**tSheet](https://github.com/agavrel/42_CheatSheet?tab=readme-ov-file#c-data-types)
 - [42 Subjects](https://github.com/Binary-Hackers/42_Subjects/tree/master/01_Piscines/C/EN)
 

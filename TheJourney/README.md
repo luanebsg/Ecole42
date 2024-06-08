@@ -9,10 +9,13 @@ Welcome to "The Journey" folder! 📚 Here, you'll find a treasure trove of dail
 ## Document Categories 📝
 
 ### Daily Observations 🌟
+
 Explore daily reflections, progress updates, and memorable moments encountered during the learning journey.
 
 ### Study Notes 📖
+
 Dive into detailed study notes covering a wide range of topics, concepts, and techniques explored during my studies.
 
 ### Specific Tips 💡
+
 Discover specific tips and strategies that have proven effective in overcoming challenges and enhancing learning efficiency.
