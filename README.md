@@ -1,4 +1,4 @@
-# Ecole42 - My Journey in the Piscine
+# Ecole42 - My Journey in the Pool
 
 Welcome to my Ecole42 repository! Here you will find records of my journey in the Ecole42 Piscine, along with some observations and learnings I gained during the process.
 
