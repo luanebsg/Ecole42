@@ -1,22 +1,22 @@
 # Before Piscine Checklist ✅
 
-Hey there! As I gear up for my second dive into the Piscine, I'm reflecting on my previous experience and preparing myself for success. Here's a rundown of my journey and what I need to do before diving in again:
+Hey there! As I gear up for my second dive into the The Pool, I'm reflecting on my previous experience and preparing myself for success. Here's a rundown of my journey and what I need to do before diving in again:
 
 ## Reflections on My First Piscine 🔄
 
-This won't be my first rodeo in the Piscine. It's actually my second attempt. The first time around, I didn't quite make it through. It was a rough start because it was my first real exposure to coding and programming. I felt lost and overwhelmed initially, but I made a decision to embrace the experience and soak up as much knowledge as possible. Failing the Piscine was a turning point for me. It made me realize that I wanted to pursue a career change. I enrolled in two tech-focused colleges and even pursued a specialization in game development. Now, I'm definitely more knowledgeable than before, but the challenges remain, especially when it comes to grasping the fundamentals of programming logic, which is crucial for coding in C. Despite the setbacks, I'm not giving up. I'm giving it another shot!
+This won't be my first rodeo in The Pool. It's actually my second attempt. The first time around, I didn't quite make it through. It was a rough start because it was my first real exposure to coding and programming. I felt lost and overwhelmed initially, but I made a decision to embrace the experience and soak up as much knowledge as possible. Failing The Pool was a turning point for me. It made me realize that I wanted to pursue a career change. I enrolled in two tech-focused colleges and even pursued a specialization in game development. Now, I'm definitely more knowledgeable than before, but the challenges remain, especially when it comes to grasping the fundamentals of programming logic, which is crucial for coding in C. Despite the setbacks, I'm not giving up. I'm giving it another shot!
 
 ## Preparations 📚
 
-Before I jump into the Piscine, there are a few things I need to get in order:
+Before I jump into The Pool, there are a few things I need to get in order:
 
 ### 1. Accommodation and Transportation 🏠🚌
 
-Living 7 hours away from the Piscine location, I need to ensure everything is sorted out:
+Living 7 hours away from The Pool location, I need to ensure everything is sorted out:
 
-- **Accommodation:** Confirm where I'll be staying during the Piscine. Whether it's a hotel, hostel, or Airbnb, I need to book it in advance.
-- **Transportation:** Plan my journey to the Piscine City. Calculate the cost of bus tickets or any other transportation expenses.
-- **Public Transport:** Research the availability and cost of public transportation from my accommodation to the Piscine location.
+- **Accommodation:** Confirm where I'll be staying during The Pool. Whether it's a hotel, hostel, or Airbnb, I need to book it in advance.
+- **Transportation:** Plan my journey to The Pool City. Calculate the cost of bus tickets or any other transportation expenses.
+- **Public Transport:** Research the availability and cost of public transportation from my accommodation to The Pool location.
 - **Food Budget:** Estimate the amount of money I'll need for meals during my stay.
 
 ### 2. Brushing Up on C Concepts 🖥️
